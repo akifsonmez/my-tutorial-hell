@@ -1,0 +1,3 @@
+[submodule "es6_exercises"]
+	path = es6_exercises
+	url = https://github.com/akifsonmez/es6_exercises
