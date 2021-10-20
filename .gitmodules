@@ -1,3 +1,6 @@
 [submodule "es6_exercises"]
 	path = es6_exercises
 	url = https://github.com/akifsonmez/es6_exercises
+[submodule "spring_exercises"]
+	path = spring_exercises
+	url = https://github.com/akifsonmez/spring_exercises.git
