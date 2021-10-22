@@ -7,3 +7,6 @@
 [submodule "algo-and-datastructure-exercises"]
 	path = algo-and-datastructure-exercises
 	url = https://github.com/akifsonmez/algo-and-datastructure-exercises
+[submodule "react-exercises"]
+	path = react-exercises
+	url = https://github.com/akifsonmez/react-exercises
