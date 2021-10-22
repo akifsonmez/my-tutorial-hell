@@ -4,3 +4,6 @@
 [submodule "spring_exercises"]
 	path = spring_exercises
 	url = https://github.com/akifsonmez/spring_exercises.git
+[submodule "algo-and-datastructure-exercises"]
+	path = algo-and-datastructure-exercises
+	url = https://github.com/akifsonmez/algo-and-datastructure-exercises
