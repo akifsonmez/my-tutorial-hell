@@ -10,3 +10,6 @@
 [submodule "react-exercises"]
 	path = react-exercises
 	url = https://github.com/akifsonmez/react-exercises
+[submodule "go-exercises"]
+	path = go-exercises
+	url = https://github.com/akifsonmez/go-exercises
