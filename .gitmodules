@@ -13,3 +13,6 @@
 [submodule "go-exercises"]
 	path = go-exercises
 	url = https://github.com/akifsonmez/go-exercises
+[submodule "react-material-ui-exercises"]
+	path = react-material-ui-exercises
+	url = https://github.com/akifsonmez/react-material-ui-exercises
