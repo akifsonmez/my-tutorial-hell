@@ -16,3 +16,6 @@
 [submodule "react-material-ui-exercises"]
 	path = react-material-ui-exercises
 	url = https://github.com/akifsonmez/react-material-ui-exercises
+[submodule "typescript-exercises"]
+	path = typescript-exercises
+	url = https://github.com/akifsonmez/typescript-exercises
