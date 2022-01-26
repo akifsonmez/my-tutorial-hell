@@ -19,3 +19,6 @@
 [submodule "typescript-exercises"]
 	path = typescript-exercises
 	url = https://github.com/akifsonmez/typescript-exercises
+[submodule "react-hooks-tutorial"]
+	path = react-hooks-tutorial
+	url = https://github.com/akifsonmez/react-hooks-tutorial
